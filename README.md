@@ -1,2 +1,1 @@
-# bmi-calc
-bmi calc with js
+# BMI
